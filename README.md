@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoRemzy
-- 👀 I’m interested in developing my skills
+- 👀 I’m interested in developing my coding skills
 - 🌱 I’m currently learning web development and the required suite of tools
 - 💞️ I’m looking to collaborate on opportunities that help to showcase my skills
 - 📫 How to reach me ...
